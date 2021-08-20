@@ -8,6 +8,7 @@ RUN apt-get update && \
     build-essential \
     gcc \
     git \ 
+    libjpeg-dev \
     libffi6 libffi-dev \
     gobject-introspection \
     gstreamer1.0-libav \
